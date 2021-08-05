@@ -1,0 +1,58 @@
+{
+  "uid" : "758c19886b8cf7d8",
+  "name" : "1) Test getText",
+  "fullName" : "Tests text scroll animation.1) Test getText",
+  "historyId" : "13e77ab113dc286ee51be92af36f65b9",
+  "time" : {
+    "start" : 1628124098602,
+    "stop" : 1628124104347,
+    "duration" : 5745
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "testMethod",
+    "value" : "1) Test getText"
+  }, {
+    "name" : "package",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.107"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "758c19886b8cf7d8.json",
+  "parameterValues" : [ "chrome-92.0.4515.107" ]
+}

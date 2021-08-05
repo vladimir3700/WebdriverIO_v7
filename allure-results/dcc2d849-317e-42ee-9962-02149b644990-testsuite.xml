@@ -1,0 +1,161 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1628124098602' stop='1628124117884'>
+    <name>Test smart page on the &lt;&lt;storied.co>></name>
+    <title>Test smart page on the &lt;&lt;storied.co>></title>
+    <test-cases>
+        <test-case start='1628124098602' status='passed' stop='1628124104308'>
+            <name>1) Load time test in default mode</name>
+            <title>1) Load time test in default mode</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124104308' status='passed' stop='1628124105403'>
+            <name>2) Image opening test with &lt;&lt;FULLSCREEN>> link</name>
+            <title>2) Image opening test with &lt;&lt;FULLSCREEN>> link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124105403' status='passed' stop='1628124106471'>
+            <name>3) Test close_icon (close fullscreen mode)</name>
+            <title>3) Test close_icon (close fullscreen mode)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124106472' status='passed' stop='1628124107556'>
+            <name>4) Test clickable close_icon (with wrong Xpath) in automation mode</name>
+            <title>4) Test clickable close_icon (with wrong Xpath) in automation mode</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124107556' status='passed' stop='1628124109196'>
+            <name>5) Image opening test by clicking (on the image)</name>
+            <title>5) Image opening test by clicking (on the image)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124109196' status='passed' stop='1628124113230'>
+            <name>6) get image size in fullscreen mode</name>
+            <title>6) get image size in fullscreen mode</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124113230' status='passed' stop='1628124113599'>
+            <name>7) screenshot image in browser</name>
+            <title>7) screenshot image in browser</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124113599' status='passed' stop='1628124113615'>
+            <name>8) test get src link image</name>
+            <title>8) test get src link image</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124113615' status='passed' stop='1628124113645'>
+            <name>9) get fulltext under image</name>
+            <title>9) get fulltext under image</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124113645' status='passed' stop='1628124114695'>
+            <name>10) click on the text under image</name>
+            <title>10) click on the text under image</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628124114695' status='passed' stop='1628124117883'>
+            <name>11) double click image in fullscreen mode</name>
+            <title>11) double click image in fullscreen mode</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.107'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

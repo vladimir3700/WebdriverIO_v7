@@ -1,0 +1,58 @@
+{
+  "uid" : "edeb0e78a4ae6e1b",
+  "name" : "9) get fulltext under image",
+  "fullName" : "Test smart page on the <<storied.co>>.9) get fulltext under image",
+  "historyId" : "a3ea9f096990abc739037658b1b68b86",
+  "time" : {
+    "start" : 1628124113615,
+    "stop" : 1628124113645,
+    "duration" : 30
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test smart page on the <<storied.co>>"
+  }, {
+    "name" : "testClass",
+    "value" : "Test smart page on the <<storied.co>>"
+  }, {
+    "name" : "testMethod",
+    "value" : "9) get fulltext under image"
+  }, {
+    "name" : "package",
+    "value" : "Test smart page on the <<storied.co>>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.107"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edeb0e78a4ae6e1b.json",
+  "parameterValues" : [ "chrome-92.0.4515.107" ]
+}

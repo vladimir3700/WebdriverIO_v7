@@ -1,0 +1,58 @@
+{
+  "uid" : "cb4700dfc239d713",
+  "name" : "4) Test text animation with scrolling in automation mode",
+  "fullName" : "Tests text scroll animation.4) Test text animation with scrolling in automation mode",
+  "historyId" : "fe1566d986f68b79e4fb2eb11e823887",
+  "time" : {
+    "start" : 1628124104411,
+    "stop" : 1628124107454,
+    "duration" : 3043
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "testMethod",
+    "value" : "4) Test text animation with scrolling in automation mode"
+  }, {
+    "name" : "package",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.107"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb4700dfc239d713.json",
+  "parameterValues" : [ "chrome-92.0.4515.107" ]
+}

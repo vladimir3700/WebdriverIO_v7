@@ -1,0 +1,58 @@
+{
+  "uid" : "8bae04fb502c5792",
+  "name" : "5) Get size block with text animation",
+  "fullName" : "Tests text scroll animation.5) Get size block with text animation",
+  "historyId" : "6b4d492f9e58f09ecd9d9ddbad62f0d1",
+  "time" : {
+    "start" : 1628124107455,
+    "stop" : 1628124110486,
+    "duration" : 3031
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "testMethod",
+    "value" : "5) Get size block with text animation"
+  }, {
+    "name" : "package",
+    "value" : "Tests text scroll animation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.107"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8bae04fb502c5792.json",
+  "parameterValues" : [ "chrome-92.0.4515.107" ]
+}

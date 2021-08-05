@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "ee77b87c77435f1393b0d3c78bba0561",
+    "name" : "Test smart page on the <<storied.co>>",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "3278dfbeb1006630e6c4d48919c812ef",
+    "name" : "Tests text scroll animation",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  } ]
+}

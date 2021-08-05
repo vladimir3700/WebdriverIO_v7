@@ -1,0 +1,234 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Tests text scroll animation",
+    "children" : [ {
+      "name" : "1) Test getText",
+      "uid" : "758c19886b8cf7d8",
+      "parentUid" : "d822d87266cc82a64459c06ddc4653af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124098602,
+        "stop" : 1628124104347,
+        "duration" : 5745
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "2) Test getHtml",
+      "uid" : "2f476ee87072d264",
+      "parentUid" : "d822d87266cc82a64459c06ddc4653af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124104347,
+        "stop" : 1628124104365,
+        "duration" : 18
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "3) Test text animation without scrolling function in automation mode",
+      "uid" : "1b02a09bb463f01",
+      "parentUid" : "d822d87266cc82a64459c06ddc4653af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124104365,
+        "stop" : 1628124104411,
+        "duration" : 46
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "4) Test text animation with scrolling in automation mode",
+      "uid" : "cb4700dfc239d713",
+      "parentUid" : "d822d87266cc82a64459c06ddc4653af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124104411,
+        "stop" : 1628124107454,
+        "duration" : 3043
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "5) Get size block with text animation",
+      "uid" : "8bae04fb502c5792",
+      "parentUid" : "d822d87266cc82a64459c06ddc4653af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124107455,
+        "stop" : 1628124110486,
+        "duration" : 3031
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "6) get css property",
+      "uid" : "54d51f3d773e2cc3",
+      "parentUid" : "d822d87266cc82a64459c06ddc4653af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124110486,
+        "stop" : 1628124110518,
+        "duration" : 32
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    } ],
+    "uid" : "d822d87266cc82a64459c06ddc4653af"
+  }, {
+    "name" : "Test smart page on the <<storied.co>>",
+    "children" : [ {
+      "name" : "1) Load time test in default mode",
+      "uid" : "ebd14597c6d0ffa8",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124098602,
+        "stop" : 1628124104308,
+        "duration" : 5706
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "2) Image opening test with <<FULLSCREEN>> link",
+      "uid" : "ea10fadf28912d77",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124104308,
+        "stop" : 1628124105403,
+        "duration" : 1095
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "3) Test close_icon (close fullscreen mode)",
+      "uid" : "4c90c1475f9414c7",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124105403,
+        "stop" : 1628124106471,
+        "duration" : 1068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "4) Test clickable close_icon (with wrong Xpath) in automation mode",
+      "uid" : "c425313ebe73abbc",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124106472,
+        "stop" : 1628124107556,
+        "duration" : 1084
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "5) Image opening test by clicking (on the image)",
+      "uid" : "eb19f11b24a6a844",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124107556,
+        "stop" : 1628124109196,
+        "duration" : 1640
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "6) get image size in fullscreen mode",
+      "uid" : "be3fe50334e6b8a0",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124109196,
+        "stop" : 1628124113230,
+        "duration" : 4034
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "7) screenshot image in browser",
+      "uid" : "993098531ec0517f",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124113230,
+        "stop" : 1628124113599,
+        "duration" : 369
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "8) test get src link image",
+      "uid" : "7d304f726fc2673b",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124113599,
+        "stop" : 1628124113615,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "9) get fulltext under image",
+      "uid" : "edeb0e78a4ae6e1b",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124113615,
+        "stop" : 1628124113645,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "10) click on the text under image",
+      "uid" : "4e6f1dc9c0739410",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124113645,
+        "stop" : 1628124114695,
+        "duration" : 1050
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    }, {
+      "name" : "11) double click image in fullscreen mode",
+      "uid" : "7dba40276d12f4bc",
+      "parentUid" : "100670dcedf70150a14a2ab4f66d27e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628124114695,
+        "stop" : 1628124117883,
+        "duration" : 3188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.107" ]
+    } ],
+    "uid" : "Test smart page on the <<storied.co>>"
+  } ]
+}

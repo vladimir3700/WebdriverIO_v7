@@ -1,0 +1,58 @@
+{
+  "uid" : "eb19f11b24a6a844",
+  "name" : "5) Image opening test by clicking (on the image)",
+  "fullName" : "Test smart page on the <<storied.co>>.5) Image opening test by clicking (on the image)",
+  "historyId" : "713af7f7e58c5d4260ef44fe4406f061",
+  "time" : {
+    "start" : 1628124107556,
+    "stop" : 1628124109196,
+    "duration" : 1640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test smart page on the <<storied.co>>"
+  }, {
+    "name" : "testClass",
+    "value" : "Test smart page on the <<storied.co>>"
+  }, {
+    "name" : "testMethod",
+    "value" : "5) Image opening test by clicking (on the image)"
+  }, {
+    "name" : "package",
+    "value" : "Test smart page on the <<storied.co>>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.107"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb19f11b24a6a844.json",
+  "parameterValues" : [ "chrome-92.0.4515.107" ]
+}
